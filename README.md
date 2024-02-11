@@ -21,12 +21,12 @@ pip install streamlit pandas numpy plotly wordcloud matplotlib
 ## Usage
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/himu23369/Tweets-Analysis.git
 ```
 
 Navigate to the project directory:
 ```bash
-cd your-repository
+cd Tweets-Analysis
 ```
 Run the Streamlit app:
 ```bash
@@ -34,13 +34,13 @@ streamlit run app.py
 ```
 
 ## Deployment
-This project is hosted on tweets-analysis1.streamlit.app.
+This project is hosted on [tweets-analysis1.streamlit.app](URL)
 
 ## Features
-Displays sentiment analysis of tweets about US Airlines.
-Provides visualizations including histograms, pie charts, and word clouds.
-Allows filtering by sentiment, time of day, and airline.
-Interactive Streamlit interface for easy exploration.
+- Displays sentiment analysis of tweets about US Airlines.
+- Provides visualizations including histograms, pie charts, and word clouds.
+- Allows filtering by sentiment, time of day, and airline.
+- Interactive Streamlit interface for easy exploration.
 
 ## Data Source
 The dataset used for this analysis is available in the file Tweets.csv
